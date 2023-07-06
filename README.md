@@ -1,11 +1,11 @@
 # calculadora
 
 A new Flutter project.
-Prueba de la imagen 1
-![Texto alternativo](/calculadora.jpg)
+![calculadora](/calculadora.jpg)
 
-Prueba de la imagen 2
-![Texto alternativo](calculadora.jpg)
+Calculadora realizada en Flutter 
+con ayuda de librerias como math_expressions
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
