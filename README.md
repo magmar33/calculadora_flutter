@@ -2,10 +2,10 @@
 
 A new Flutter project.
 Prueba de la imagen 1
-(/calculadora.jpg)
+![Texto alternativo](/calculadora.jpg)
 
 Prueba de la imagen 2
-(calculadora.jpg)
+![Texto alternativo](calculadora.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
